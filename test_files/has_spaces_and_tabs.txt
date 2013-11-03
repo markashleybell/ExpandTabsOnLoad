@@ -1,0 +1,4 @@
+This file
+	Has space and tab indentation
+        So the spaces should not be converted
+				And the tabs should be converted
